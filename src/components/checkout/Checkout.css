@@ -1,0 +1,9 @@
+.checkout__ad {
+    width: 100%;
+}
+
+.checkout__ad__img {
+    max-height: 300px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
