@@ -13,37 +13,37 @@ function Home() {
       <div className="home__row">
         <Product
           id="1234"
-          title="The Lean Startup: How Constant Innovation Creates"
+          title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses by Eric Ries"
           price={11.95}
           rating={5}
           image="https://m.media-amazon.com/images/I/51PAIR77wJL._SL500_.jpg"
         />
         <Product
           id="1234"
-          title="The Lean Startup: How Constant Innovation Creates"
-          price={11.95}
+          title="Echo Plus (2nd Gen) – Premium sound, powered by Dolby, built-in Smart Home hub (Grey)"
+          price={149.99}
           rating={5}
-          image="https://m.media-amazon.com/images/I/51PAIR77wJL._SL500_.jpg"
+          image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
         />
       </div>
       <div className="home__row">
         <Product
           id="1234"
-          title="The Lean Startup: How Constant Innovation Creates"
+          title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses by Eric Ries"
           price={11.95}
           rating={5}
           image="https://m.media-amazon.com/images/I/51PAIR77wJL._SL500_.jpg"
         />
         <Product
           id="1234"
-          title="The Lean Startup: How Constant Innovation Creates"
-          price={11.95}
-          rating={5}
-          image="https://m.media-amazon.com/images/I/51PAIR77wJL._SL500_.jpg"
+          title="Echo Plus (2nd Gen) – Premium sound, powered by Dolby, built-in Smart Home hub (Grey)"
+          price={149.99}
+          rating={4}
+          image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
         />
         <Product
           id="1234"
-          title="The Lean Startup: How Constant Innovation Creates"
+          title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses by Eric Ries"
           price={11.95}
           rating={5}
           image="https://m.media-amazon.com/images/I/51PAIR77wJL._SL500_.jpg"
