@@ -1,9 +1,18 @@
+.checkout {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+}
+
 .checkout__ad {
     width: 100%;
 }
 
 .checkout__ad__img {
-    max-height: 300px;
+    max-height: 180px;
     overflow: hidden;
     margin-bottom: 30px;
 }
+
+
